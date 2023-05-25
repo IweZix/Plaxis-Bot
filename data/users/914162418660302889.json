@@ -1,21 +1,21 @@
 {
   "accounts": [
     {
-      "id": "914162418660302889",
-      "puuid": "c636ca1d-0a39-50ac-9ae4-0d194fc2305c",
+      "id": "",
+      "puuid": "",
       "auth": {
         "cookies": {
-          "tdid": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjhlNTQ0NTQ5LWVjZDEtNDc0Zi1iYjQ3LTIyNGIwZmQzNWI4YyIsIm5vbmNlIjoiTzZsYUZvU0FodlE9IiwiaWF0IjoxNjgwODIwNjA0fQ.3RM-Q4m1axO-Q2m3WhxR6dyFzBEFMZlzUPCXVX70oGg",
+          "tdid": "",
           "asid": "",
           "clid": "ec1",
-          "__cf_bm": "7_HIlDGE0iLIzzGufyoMpKsdZqF2OrxbrT7wUat0WJI-1680820567-0-Actn2iSR/YLtqUfv4rUxza2vw22+CrCULrx90ohEdaFRN5Mhb/YgdLs2Ig1uRoVPhXsGcx8zDyORl3g732LtIJI=",
-          "ssid": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzc2lkIjoiLVo1bnd0YjBTTG5XMUpkYXRxbVdVZy5zSVR2ZF9Pa1VYcHptX3J1UHJLTDdBIiwic3ViIjoiYzYzNmNhMWQtMGEzOS01MGFjLTlhZTQtMGQxOTRmYzIzMDVjIiwibG9naW5Ub2tlbiI6ImE2MTAwYTE3LTI2YmQtNDA0Yy1hMmVlLTIzY2NlNmMzMzI0ZCIsInNlcmllc1Rva2VuIjoiY2QzYjQ3ZjYtODNlMS00ZTQ0LThmNzktOTVmMzAyMTgyOTc5IiwiaWF0IjoxNjgwODIwNjA0fQ.JthKd6uxsOPpTszTO-bnG2mV44Wwa2x4wJwXJsnUNXQ",
-          "sub": "c636ca1d-0a39-50ac-9ae4-0d194fc2305c",
-          "csid": "-Z5nwtb0SLnW1JdatqmWUg.sITvd_OkUXpzm_ruPrKL7A"
+          "__cf_bm": "",
+          "ssid": "",
+          "sub": "",
+          "csid": "",
         },
-        "rso": "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJwcCI6eyJjIjoiZXUifSwic3ViIjoiYzYzNmNhMWQtMGEzOS01MGFjLTlhZTQtMGQxOTRmYzIzMDVjIiwic2NwIjpbIm9wZW5pZCIsImxpbmsiLCJiYW4iLCJsb2xfcmVnaW9uIiwibG9sIiwic3VtbW9uZXIiLCJvZmZsaW5lX2FjY2VzcyJdLCJjbG0iOlsibG9sX2FjY291bnQiLCJlbWFpbF92ZXJpZmllZCIsIm9wZW5pZCIsInB3IiwibG9sIiwib3JpZ2luYWxfcGxhdGZvcm1faWQiLCJyZ25fRVVXMSIsInBob25lX251bWJlcl92ZXJpZmllZCIsInBob3RvIiwib3JpZ2luYWxfYWNjb3VudF9pZCIsInByZWZlcnJlZF91c2VybmFtZSIsImxvY2FsZSIsImJhbiIsImxvbF9yZWdpb24iLCJhY2N0X2dudCIsInJlZ2lvbiIsInB2cG5ldF9hY2NvdW50X2lkIiwiYWNjdCIsInVzZXJuYW1lIl0sImRhdCI6eyJwIjpudWxsLCJyIjoiRVVXMSIsImMiOiJlYzEiLCJ1IjoyMzA5NTI5NjksImxpZCI6IlJ3bkxvejl1RnlibldXbzZnald1NVEiLCJsbmsiOltdfSwiaXNzIjoiaHR0cHM6Ly9hdXRoLnJpb3RnYW1lcy5jb20iLCJleHAiOjE2ODA4MjQyMDQsImlhdCI6MTY4MDgyMDYwNCwianRpIjoicldWQ3YzWHRSV1kiLCJjaWQiOiJyaW90LWNsaWVudCJ9.Annj9C5LldsWkVI3c07rBK81OUEg13PbgWT0bCdQS5gujWO_iluYdZvs2iNH9XXKRw1ezzSX-QSQ5DkwpNtBZewIO00ovfUo4b7786sTl-FypP_9OIXdGLSLS6ss8ZBtfSNkllDQN42ArZ04JkQvM940kR0YtXSCvQOAn8DbuR4",
-        "idt": "eyJraWQiOiJzMSIsInR5cCI6ImlkX3Rva2VuK2p3dCIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoia1VneDlNcWMtTVpIS2J3Ylcyb1Z2USIsInN1YiI6ImM2MzZjYTFkLTBhMzktNTBhYy05YWU0LTBkMTk0ZmMyMzA1YyIsImNvdW50cnkiOiJiZWwiLCJhbXIiOlsicGFzc3dvcmQiLCJtZmEiXSwiaXNzIjoiaHR0cHM6Ly9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7ImN1aWQiOjIzMDk1Mjk2OSwiY3BpZCI6IkVVVzEiLCJ1aWQiOjIzMDk1Mjk2OSwidW5hbWUiOiJpd2V6aXgiLCJwdHJpZCI6bnVsbCwicGlkIjoiRVVXMSIsInN0YXRlIjoiRU5BQkxFRCJ9XSwicGhvbmVfbnVtYmVyX3ZlcmlmaWVkIjpmYWxzZSwibm9uY2UiOiI2OTQyMCIsImFjY291bnRfdmVyaWZpZWQiOmZhbHNlLCJhdWQiOiJyaW90LWNsaWVudCIsImFjciI6InVybjpyaW90OmdvbGQiLCJsb2xfcmVnaW9uIjpbeyJhY3RpdmUiOnRydWUsImNwaWQiOiJFVVcxIiwiY3VpZCI6MjMwOTUyOTY5LCJscCI6ZmFsc2UsInBpZCI6IkVVVzEiLCJ1aWQiOjIzMDk1Mjk2OX1dLCJleHAiOjE2ODA5MDcwMDQsImlhdCI6MTY4MDgyMDYwNCwiYWNjdCI6eyJnYW1lX25hbWUiOiJJd2VaaXgiLCJ0YWdfbGluZSI6IjY2NiJ9LCJhZ2UiOjI2LCJqdGkiOiJURmRqNmFxaFB0OCIsImxvZ2luX2NvdW50cnkiOiJiZWwifQ.XpM-0R7SN1l10t0h0SWKnNLABh_NTaFlxKCBPG0pk5s5nTPKNXbgTTajNMnDJwRbq75_PYPDqgq-GXEPYS_3JVUL0cbC62JXA_lHRTVMlLCklKWR6N4epm-BVZhossc6VXUdrBFGDTg2-NpHauTeUTrWdeNZQlOTPlTUH9CuXWE",
-        "ent": "eyJraWQiOiJrMSIsImFsZyI6IlJTMjU2In0.eyJlbnRpdGxlbWVudHMiOltdLCJhdF9oYXNoIjoia1VneDlNcWMtTVpIS2J3Ylcyb1Z2USIsInN1YiI6ImM2MzZjYTFkLTBhMzktNTBhYy05YWU0LTBkMTk0ZmMyMzA1YyIsImlzcyI6Imh0dHBzOlwvXC9lbnRpdGxlbWVudHMuYXV0aC5yaW90Z2FtZXMuY29tIiwiaWF0IjoxNjgwODIwNjA1LCJqdGkiOiJyV1ZDdjNYdFJXWSJ9.PJ6lTW_CyYJYmCzlsTnXQJruzQf1QNcSxTLFjp6g-cBr1-QPYA_HMUwfWsi-TERsBIcVwLUv-NZfcq7gItMqDmHgjxnBqFTL5Mbxc-NVKXFA-uHFOeSA3a2-Qagqhp24Xa1WKpEZbTokuNgvW7nALF0Ht-m9lho8-7BDjPGCgyFJdpYmOnpTDeYHdY9JJxoM1AW3uwTbKavPcfl-UxPF0lcMMVrag67JLaIYYJSgaB4RO-4xTsuzilyYGKd7ITJiXELlo7u5vucmv7ahmOUWzoXfb0_CFegqZMJ0im-K6gqkIPs2TBeUrjVg9TQcMlcg7gHX1ldmFqL3Msh6NMOEPQ"
+        "rso": "",
+        "idt": "",
+        "ent": "",
       },
       "alerts": [],
       "username": "IweZix#666",
